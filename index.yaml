@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  mulder:
+  - apiVersion: v1
+    created: 2019-02-11T09:55:32.364751+01:00
+    description: The Jenkins X Files - Backend API of the Jenkins X workshop
+    digest: 1ba2b99a3fe75ce645b300793c04e37a13bb84e90150a8afdc36642c69d5b26b
+    icon: https://www.cloudbees.com/sites/default/files/blog/the-jenkins-x-files.jpg
+    name: mulder
+    sources:
+    - https://github.com/the-jenkins-x-files/mulder
+    urls:
+    - https://the-jenkins-x-files.github.io/charts/mulder-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-02-11T09:55:32.362027+01:00
